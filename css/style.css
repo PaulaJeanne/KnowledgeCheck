@@ -126,7 +126,7 @@ body {
     max-width: 1000px;
     display: flex;
     flex-direction: column;
-    justify-content: right;
+    justify-content: space-between;
     align-items: center;
     padding: 12px;
 }
