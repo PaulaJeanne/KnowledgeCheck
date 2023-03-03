@@ -134,6 +134,10 @@ body {
 .contact-item {
     
 }
+#map {
+    height: 200px;
+    width: 200px;
+}
 
 .footer-container {
     background: #1b1b27;
