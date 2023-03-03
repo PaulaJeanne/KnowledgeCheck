@@ -115,8 +115,8 @@ body {
     background: url('https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=pexels-luis-gomes-546819.jpg&fm=jpg') center center no-repeat;
     background-size: cover;
     display: block;
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     padding: 48px 0;
 }
 
@@ -126,8 +126,8 @@ body {
     max-width: 1000px;
     display: flex;
     flex-direction: column;
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     padding: 12px;
 }
 
