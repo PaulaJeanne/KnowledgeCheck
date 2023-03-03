@@ -112,12 +112,12 @@ body {
 /* added Contact content for Knowledge Check Step 5 Bonus*/
 
 .contact-container {
-    display: block;
     background: url('https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=pexels-luis-gomes-546819.jpg&fm=jpg') center center no-repeat;
     background-size: cover;
-    height: 40vh;
-    padding: 0;
-    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 0;
 }
 
 .contact-content {
