@@ -338,6 +338,12 @@ footer {
         align-items: flex-start;
     }
 
+    .contact-content {
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    }
+
     .main-nav {
         display: block;
     }
