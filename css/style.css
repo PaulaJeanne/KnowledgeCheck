@@ -137,6 +137,7 @@ body {
 #map {
     height: 200px;
     width: 200px;
+    background-color: #999;
 }
 
 .footer-container {
