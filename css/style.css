@@ -114,7 +114,7 @@ body {
 .contact-container {
     background: url('https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=pexels-luis-gomes-546819.jpg&fm=jpg') center center no-repeat;
     background-size: cover;
-    display: inline-block;
+    display: flex;
     justify-content: center;
     align-items: right;
     padding: 48px 0;
