@@ -122,11 +122,23 @@ body {
 
 .contact-content {
    border: solid 1px #39f
+    color: #F1F1F1;
+    width: 50%;
+    max-width: 1000px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: left;
     padding: 12px;
+}
+
+.contact-item {
+    
+}
+#map {
+    height: 200px;
+    width: 200px;
+    background-color: #999;
 }
 
 .footer-container {
